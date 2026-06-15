@@ -50,7 +50,7 @@ O Lojin é uma API demo desenvolvida em Python com FastAPI para a aula de Integr
 
    Após isso, rode o comando `docker-compose up --build`**/**`podman-compose up --build` e aguarde
 
-4. A aplicação irá iniciar automaticamente. Você pode parar os serviços com `docker-compose stop`**/**`podman-compose down` ou apagar os containers com `docker-compose down`**/**`podman-compose down` (**não apaga** os volumes) ou `docker-compose down -v`**/**`podman-compose down -v` (**apaga** os volumes)
+4. A aplicação irá iniciar automaticamente. Você pode parar os serviços com `docker-compose stop`**/**`podman-compose stop` ou apagar os containers com `docker-compose down`**/**`podman-compose down` (**não apaga** os volumes) ou `docker-compose down -v`**/**`podman-compose down -v` (**apaga** os volumes)
 
 ## 🔗 Como acessar
 
